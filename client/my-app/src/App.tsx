@@ -198,7 +198,7 @@ setarr(newArr)
               />
       </div>
       <div className="modal-footer">
-        <button type="button" className="btn btn-secondary" >Close</button>
+        <button type="button" data-dismiss="modal" className="btn btn-secondary" >Close</button>
         <button type="button" className="btn btn-primary" data-dismiss="modal" onClick={()=>handleUpdate(index)}>Save changes</button>
       </div>
     </div>
