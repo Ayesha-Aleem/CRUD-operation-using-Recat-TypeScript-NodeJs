@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^3.9.4",
+    "@material-ui/styles": "^4.11.5",
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "bootstrap": "^5.2.3",
+    "mdbreact": "^5.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "@types/shortid": "^0.0.29"
+  }
+}
